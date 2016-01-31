@@ -40,6 +40,19 @@ $navbar-default-bg: #752020;
   background-color: black;
 }
 
+.article-actions {
+  border-top: 1px solid #eaeaea;
+  padding-top: 5px;
+}
+
+.description {
+  margin-top: 0;
+}
+
+.description-body {
+  min-height: 200px;
+}
+
 footer {
   margin-top: 45px;
   padding-top: 5px;
@@ -65,3 +78,4 @@ footer ul li {
   float: left;
   margin-left: 15px;
 }
+
